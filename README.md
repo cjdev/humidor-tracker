@@ -4,14 +4,14 @@ humidor-tracker
 Sample application used to demonstrate the javascript tools and patterns that we use with one of our flavors of end-to-end TDD
 
 
-GOALS OF THIS PRESENTATION
+goal
 ===============
 
-  - expose people to the flavor & style of javascript/TDD that NaN is using
-    - component-oriented
-    - patterns
-    - tools
-    - flow
+expose people to the flavor & style of javascript/TDD that NaN is using
+  - component-oriented
+  - patterns
+  - tools
+  - flow
 
 
 rules
