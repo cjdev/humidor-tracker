@@ -1,0 +1,18 @@
+{
+    "name": "POST something",
+    "url": "/api/publisher/1234/widget",
+    "request": {
+        "method": "POST",
+        "header": {
+            "Content-Type": "application/json"
+        },
+        "representation-ref": "post-something.request.json"
+    },
+    "response": {
+        "header" : {
+            "Content-Type": "application/json"
+        },
+        "statusCode": 200,
+        "representation-ref": "post-something.response.json"
+    }
+}
