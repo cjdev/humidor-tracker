@@ -3,7 +3,6 @@ humidor-tracker
 
 Sample application used to demonstrate the javascript tools and patterns that we use with one of our flavors of end-to-end TDD
 
-
 goal
 ===============
 
@@ -12,7 +11,6 @@ expose people to the flavor & style of javascript/TDD that NaN is using
   - patterns
   - tools
   - flow
-
 
 rules
 ===============
