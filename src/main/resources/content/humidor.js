@@ -1,4 +1,4 @@
 /*global define*/
-define(["jquery", "thirdparty/HttpClient"], function($, httpClient){
-	$("body").append("hi");
+define(["jquery", "CigarEntryWidget"], function($, makeCigarEntryWidget){
+	makeCigarEntryWidget({view:$("body")});
 });

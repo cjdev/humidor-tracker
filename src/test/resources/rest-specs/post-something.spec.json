@@ -1,6 +1,6 @@
 {
-    "name": "POST something",
-    "url": "/api/publisher/1234/widget",
+    "name": "POST a cigar",
+    "url": "/api/cigars",
     "request": {
         "method": "POST",
         "header": {
